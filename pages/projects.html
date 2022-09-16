@@ -1,0 +1,26 @@
+---
+layout: page
+title: Projects
+subtitle: Things I have worked on.
+description: Pudhina Fresh projects page – A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
+permalink: /projects
+sitemap:
+  priority: 0.9
+---
+{% if site.project_card_style_flat %}
+  <hr>
+  {% for project in site.data.projects %}
+    {% include post/project_card_flat.html %}
+  {% endfor %}
+
+{% else %}
+  <div class="card-columns">
+  {% for project in site.data.projects %}
+    {% include post/project_card.html %}
+  {% endfor %}
+  </div>
+{% endif %}
+
+<script>
+
+</script>
