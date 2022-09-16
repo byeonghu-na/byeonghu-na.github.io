@@ -10,7 +10,8 @@ sitemap:
 
 <p id="describe-text">Ph.D Candidate @ KAIST, ISysE.</p>
 <p id="describe-text">E-mail: <wp03052@kaist.ac.kr> | <byeonghu.na@kaist.ac.kr> | <gwp03052@gmail.com></p>
-
+  
+<img style="float: right;" src="assets/img/byeonghu.jpg">
 
 ### Education
 > **KAIST, Daejeon, Korea, Ph.D.** *(Mar. 2021 - Present)*  
