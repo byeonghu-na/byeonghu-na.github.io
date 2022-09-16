@@ -7,14 +7,16 @@ description:
 sitemap:
   priority: 1.0
 ---
-<p>
-<div class=pull-left>
-  <img src="assets/img/byeonghu.jpg" style='width:20%; height:20%'>
-</div>
+![byeonghu](assets/img/byeonghu.jpg){: style="float: right" width="20%" height="20%"}
 <p id="describe-text">Ph.D Candidate @ KAIST, ISysE.</p>
 <p id="describe-text">E-mail: <wp03052@kaist.ac.kr> | <byeonghu.na@kaist.ac.kr> | <gwp03052@gmail.com></p>
-</p>
 
+
+  
+  
+  
+  
+  
 ### Education
 > **KAIST, Daejeon, Korea, Ph.D.** *(Mar. 2021 - Present)*  
 > * Applied Artificial Intelligence Laboratory (AAILab)  
