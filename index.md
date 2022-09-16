@@ -7,8 +7,7 @@ description:
 sitemap:
   priority: 1.0
 ---
-![byeonghu](assets/img/byeonghu.jpg)
-<p id="describe-text">Ph.D Candidate @ KAIST, ISysE.</p>
+![byeonghu](assets/img/byeonghu.jpg){: width="30%" height="30%"}<p id="describe-text">Ph.D Candidate @ KAIST, ISysE.</p>
 <p id="describe-text">E-mail: <wp03052@kaist.ac.kr> | <byeonghu.na@kaist.ac.kr> | <gwp03052@gmail.com></p>
 
 ### Education
